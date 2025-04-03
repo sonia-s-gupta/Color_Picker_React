@@ -1,3 +1,4 @@
 # 🎨 Color Picker
 
-Follow the instructions in the workshop to finish the assignment!
+App Link Below: 
+[Netlify Color Picker] (https://sonia-color-picker.netlify.app/)
